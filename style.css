@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+
+#status {
+  margin: 1rem 0;
+}
+
+#status.success {
+  color: green;
+}
+
+#status.error {
+  color: red;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
