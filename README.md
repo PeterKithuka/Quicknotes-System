@@ -1,0 +1,1 @@
+Title: QuickNotes System DesignDescription of projectHow to run API client (open index.html in browser)Links to docs/api-design.md, docs/data-model.md, docs/architecture.md“What I learned” section with at least three points (REST design, SQL modeling, scaling architecture)
