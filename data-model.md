@@ -1,0 +1,1 @@
+Entities: users, notes, tags, note_tags.Columns, types, PKs, FKs.CREATE TABLE statements for all four.Three example queries (including one JOIN).One index with reason.SQL vs NoSQL justification.

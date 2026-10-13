@@ -1,0 +1,1 @@
+Six endpoints: GET /notes, GET /notes/{id}, POST /notes, PUT /notes/{id}, DELETE /notes/{id}, GET /notes?tag={tag}.Include request/response JSON examples for creating and listing notes.Error codes: 400, 401, 403, 404, 500 with example error body.

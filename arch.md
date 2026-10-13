@@ -1,0 +1,1 @@
+Functional and non-functional requirements.Load estimate for 1M users (reads/sec, writes/sec, storage/year).ASCII diagram with client, DNS, CDN, load balancer, app servers, cache, DB + read replica, queue + worker.One sentence per component.Flow of GET /notes and POST /notes.Two trade-offs and how single points of failure are avoided.
